@@ -12,6 +12,17 @@
 | Export | 16:15 | Export CVAT for images 1.1 (không kèm ảnh), mở lại rồi nộp. | `PYTHONPATH=src python3 -m road_lab.road_check lint <tên>-front.zip <tên>-fisheye.zip` |
 | Buffer | 16:35 | Sửa lô theo phiếu nhận được. Tùy chọn: hoạt động row-anchor. | `PYTHONPATH=src python3 -m road_lab.rowanchor <tên>-front.zip --image A01` |
 
+## Bàn giao của tôi (Trần Trọng Thái · 2A202604065)
+
+Hai file nhãn ở dạng zip bị `.gitignore` loại khỏi repo, nên mình để trên Google Drive:
+
+| File | Drive |
+| --- | --- |
+| `TranTrongThai-front.zip` (CVAT for images 1.1, không kèm ảnh — A01–A12) | [Tải từ Google Drive](https://drive.google.com/drive/folders/1figD0jm-EN-YkCi2wmWyEwwWpggYxh6n?usp=sharing) |
+| `TranTrongThai-fisheye.zip` (CVAT for images 1.1, không kèm ảnh — B01–B08) | [Tải từ Google Drive](https://drive.google.com/drive/folders/1figD0jm-EN-YkCi2wmWyEwwWpggYxh6n?usp=sharing) |
+
+[Thư mục Google Drive Lab11](https://drive.google.com/drive/folders/1figD0jm-EN-YkCi2wmWyEwwWpggYxh6n?usp=sharing) · Ba file còn lại (`TranTrongThai-manifest.json`, `TranTrongThai-qc1-for-PhamDuyThanh.md`, `TranTrongThai-report.md`) nằm trong repo này.
+
 ## Cài đặt
 
 Chỉ cần Python 3.11 trở lên; code chỉ dùng thư viện chuẩn. Muốn chạy test thì cài thêm pytest.
