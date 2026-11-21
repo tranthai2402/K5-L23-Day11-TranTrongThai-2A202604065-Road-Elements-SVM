@@ -21,7 +21,15 @@ Hai file nhãn ở dạng zip bị `.gitignore` loại khỏi repo, nên mình �
 | `TranTrongThai-front.zip` (CVAT for images 1.1, không kèm ảnh — A01–A12) | [Tải từ Google Drive](https://drive.google.com/drive/folders/1figD0jm-EN-YkCi2wmWyEwwWpggYxh6n?usp=sharing) |
 | `TranTrongThai-fisheye.zip` (CVAT for images 1.1, không kèm ảnh — B01–B08) | [Tải từ Google Drive](https://drive.google.com/drive/folders/1figD0jm-EN-YkCi2wmWyEwwWpggYxh6n?usp=sharing) |
 
-[Thư mục Google Drive Lab11](https://drive.google.com/drive/folders/1figD0jm-EN-YkCi2wmWyEwwWpggYxh6n?usp=sharing) · Ba file còn lại (`TranTrongThai-manifest.json`, `TranTrongThai-qc1-for-PhamDuyThanh.md`, `TranTrongThai-report.md`) nằm trong repo này.
+[Thư mục Google Drive Lab11](https://drive.google.com/drive/folders/1figD0jm-EN-YkCi2wmWyEwwWpggYxh6n?usp=sharing)
+
+Ba file còn lại nằm trong repo này:
+
+| File | Nội dung | Vị trí |
+| --- | --- | --- |
+| `TranTrongThai-manifest.json` | Manifest bàn giao (revision 1, `contains_images: false`) | [TranTrongThai-manifest.json](TranTrongThai-manifest.json) |
+| `TranTrongThai-qc1-for-PhamDuyThanh.md` | Phiếu QC 1 cho bạn được ghép (Phạm Duy Thanh) — quyết định `Hold` | [TranTrongThai-qc1-for-PhamDuyThanh.md](TranTrongThai-qc1-for-PhamDuyThanh.md) |
+| `TranTrongThai-report.md` | Báo cáo cá nhân (mục 1–8) | [TranTrongThai-report.md](TranTrongThai-report.md) |
 
 ## Cài đặt
 
